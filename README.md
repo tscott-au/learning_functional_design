@@ -1,21 +1,11 @@
-# LearningFD
+# Learning Functional Design - in elixir
 
-**TODO: Add description**
+**Learn functional design principles and practices using the elixir language **
 
-## Installation
+Provide a code companion to youtube videos, implementing and 
+testing the concepts presented.
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `learning_functional_design` to your list of dependencies in `mix.exs`:
+## Video list
+1) [Functional programming design patterns](https://youtu.be/E8I19uA-wGY) by Scott Wlaschin (Aug 2015)
 
-```elixir
-def deps do
-  [
-    {:learning_functional_design, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/learning_functional_design](https://hexdocs.pm/learning_functional_design).
 
